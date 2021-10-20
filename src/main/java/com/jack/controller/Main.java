@@ -10,7 +10,7 @@ import java.util.List;
  * @author jack
  * 为了测试分数四则运算
  */
-public class Test {
+public class Main {
     public static void main(String[] args) {
 
         Fraction cal = new Fraction();
